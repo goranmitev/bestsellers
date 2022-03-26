@@ -1,0 +1,27 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2022 The New York Times Company.  All Rights Reserved.",
+    "num_results": 1,
+    "results": [
+        {
+            "title": "10 lb Penalty",
+            "description": null,
+            "contributor": null,
+            "author": "Dick Francis",
+            "contributor_note": null,
+            "price": "0.00",
+            "age_group": null,
+            "publisher": null,
+            "isbns": [{ "isbn10": "042519745X", "isbn13": "9780425197455" }],
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/1997/10/19/books/books-in-brief-fiction-548219.html",
+                    "article_chapter_link": null
+                }
+            ]
+        }
+    ]
+}

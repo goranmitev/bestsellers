@@ -1,0 +1,8 @@
+{
+    "message": "The given data was invalid.",
+    "errors": {
+        "offset": [
+            "The offset should be multiple of 20"
+        ]
+    }
+}

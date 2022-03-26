@@ -1,0 +1,8 @@
+{
+    "message": "The given data was invalid.",
+    "errors": {
+        "isbn": [
+            "The ISBN should be 10 or 13 digits and can be multiple ISBNs separated with semicolons"
+        ]
+    }
+}

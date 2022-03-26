@@ -15,6 +15,10 @@ return [
 
     'name' => env('APP_NAME', 'Laravel'),
 
+    'nyt_api_url' => 'https://api.nytimes.com/svc/books/v3',
+
+    'nyt_api_key' => env('NYT_API_KEY', 'RSotrhtqAILIGDa0rKQ5FrAHGKWhpqeA'),
+
     /*
     |--------------------------------------------------------------------------
     | Application Environment
